@@ -1,4 +1,4 @@
-
+aws is cloud provider
 
 asw is a cloud service whereu can pay for usage of services
 in a aws we have service like ec2,s3,elb,cloudwatch... 
